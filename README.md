@@ -2,5 +2,5 @@
 - I'm Googlefan.
 - I'm a Japanese junior highschool student.
 # contact links here
-- twitter.com/advictrius85
-- glow.f5.si
+- https://twitter.com/advictrius85
+- http://glow.f5.si
