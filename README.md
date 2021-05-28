@@ -5,7 +5,7 @@
 ### My discordbot
 * [official site](http://glow.f5.si)
 * [invite link](http://glow.f5.si/invite/)
-* [discord](http://glow.f5.si/support/)
+* [discord](http://glow.f5.si/discord/)
 ### My minecraft server
 * [official twitter](https://twitter.com/the_no_planed)  
 * [discord](https://discord.gg/tC5FJKp7FM)  
