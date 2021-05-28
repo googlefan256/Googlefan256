@@ -6,6 +6,7 @@ My discordbot
 - [official site](http://glow.f5.si)
 - [invite link](http://glow.f5.si/invite/)  
 My minecraft server
-- https://twitter.com/the_no_planed
+- [official twitter](https://twitter.com/the_no_planed)  
+- [discord](https://discord.gg/tC5FJKp7FM)  
 My twitter
-- https://twitter.com/advictrius85
+- [@advictrius85](https://twitter.com/advictrius85)
