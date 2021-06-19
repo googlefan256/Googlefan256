@@ -1,4 +1,4 @@
-[![Googlefan256のステータス](https://github-readme-stats.vercel.app/api?username=Googlefan256&count_private=true&show_icons=true&theme=tokyonight&locale=jp)](https://github.com/anuraghazra/github-readme-stats)
+[![Googlefan256のステータス](https://github-readme-stats.vercel.app/api?username=Googlefan256&count_private=true&show_icons=true&theme=tokyonight&locate=ja)](https://github.com/anuraghazra/github-readme-stats)
 
 # About me
 - I'm called Googlefan.
