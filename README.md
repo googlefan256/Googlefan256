@@ -1,3 +1,5 @@
+[![Googlefan256のステータス](https://github-readme-stats.vercel.app/api?username=Googlefan256)](https://github.com/anuraghazra/github-readme-stats)
+
 # About me
 - I'm called Googlefan.
 - I'm a Japanese junior highschool student.
@@ -23,5 +25,3 @@
 * [公式discord](https://discord.gg/tC5FJKp7FM)  
 ### twitter
 * [@advictrius85](https://twitter.com/advictrius85)
-# ステータス
-* [![Googlefan256のステータス](https://github-readme-stats.vercel.app/api?username=Googlefan256)](https://github.com/anuraghazra/github-readme-stats)
