@@ -1,5 +1,5 @@
 [![Googlefan256のステータス](https://github-readme-stats.vercel.app/api?username=Googlefan256&count_private=true&show_icons=true&theme=tokyonight&locate=ja)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Googlefan256&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Googlefan256&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 # About me
 - I'm called Googlefan.
 - I'm a Japanese junior highschool student.
