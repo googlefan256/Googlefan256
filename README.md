@@ -23,3 +23,5 @@
 * [公式discord](https://discord.gg/tC5FJKp7FM)  
 ### twitter
 * [@advictrius85](https://twitter.com/advictrius85)
+# ステータス
+* [![Googlefan256のステータス](https://github-readme-stats.vercel.app/api?username=Googlefan256)](https://github.com/anuraghazra/github-readme-stats)
